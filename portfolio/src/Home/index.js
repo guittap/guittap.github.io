@@ -79,12 +79,16 @@ class NavBar extends React.Component {
             >
               Github
             </button>
-            <button type="button" class="btn btn-outline-primary m-2">
-              Coding Blog
-            </button>
-            <button type="button" class="btn btn-outline-primary m-2">
-              Workout Blog
-            </button>
+            <a href="coding.html">
+              <button type="button" class="btn btn-outline-primary m-2">
+                Coding Blog
+              </button>
+            </a>
+            <a href="workout.html">
+              <button type="button" class="btn btn-outline-primary m-2">
+                Workout Blog
+              </button>
+            </a>
           </div>
           <div className="col-sm"></div>
         </div>
