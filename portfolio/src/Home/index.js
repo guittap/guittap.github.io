@@ -67,7 +67,7 @@ class NavBar extends React.Component {
         <div className="row">
           <div className="col-sm"></div>
           <div className="col-sm-10 text-center mt-2">
-            <a href="resume.pdf" target="_blank">
+            <a href="resume.pdf">
               <button type="button" class="btn btn-outline-primary m-2">
                 Resume
               </button>
