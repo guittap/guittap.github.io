@@ -13,7 +13,7 @@ const NameAndScope = () => {
       <div className="row">
         <div className="col-sm"></div>
         <div className="col-sm-10 text-center text-muted">
-          <h5>Software Engineer // Business Analyst</h5>
+          <p>Software Engineer, Data Analyst</p>
         </div>
         <div className="col-sm"></div>
       </div>

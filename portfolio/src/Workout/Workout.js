@@ -1,10 +1,11 @@
 import React from "react";
+import Welcome from "./posts/welcome";
 
 class Workout extends React.Component {
   render() {
     return (
-      <div>
-        <h1>Workout</h1>
+      <div className="mt-4">
+        <Welcome />
       </div>
     );
   }

@@ -1,4 +1,5 @@
 import React from "react";
+import Resume from "../assets/resume.pdf";
 import { NavLink } from "react-router-dom";
 
 const NavBar = () => {
@@ -14,7 +15,7 @@ const NavBar = () => {
             </button>
           </NavLink>
           {/* resume button */}
-          <a href="resume.pdf">
+          <a href={Resume}>
             <button type="button" class="btn btn-outline-primary m-2">
               Resume
             </button>
