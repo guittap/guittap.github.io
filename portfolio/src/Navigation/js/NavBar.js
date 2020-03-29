@@ -28,16 +28,10 @@ const NavBar = () => {
           >
             Github
           </button>
-          {/* coding blog button */}
-          <NavLink to="/coding-blog">
+          {/* blog button */}
+          <NavLink to="/blog">
             <button type="button" class="btn btn-outline-primary m-2">
-              Coding Blog
-            </button>
-          </NavLink>
-          {/* workout blog button */}
-          <NavLink to="/workout-blog">
-            <button type="button" class="btn btn-outline-primary m-2">
-              Workout Blog
+              Blog
             </button>
           </NavLink>
         </div>

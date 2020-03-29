@@ -2,8 +2,7 @@ import React from "react";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import Home from "./Home/Home";
-import Coding from "./Coding/Coding";
-import Workout from "./Workout/Workout";
+import Blog from "./Blog/Blog";
 import Navigation from "./Navigation/Navigation";
 
 class App extends React.Component {
@@ -14,8 +13,7 @@ class App extends React.Component {
           <Navigation />
           <Switch>
             <Route path="/" component={Home} exact />
-            <Route path="/coding-blog" component={Coding} />
-            <Route path="/workout-blog" component={Workout} />
+            <Route path="/blog" component={Blog} />
           </Switch>
         </div>
       </BrowserRouter>

@@ -1,7 +1,7 @@
 import React from "react";
 import Welcome from "./posts/welcome";
 
-class Workout extends React.Component {
+class Blog extends React.Component {
   render() {
     return (
       <div className="mt-4">
@@ -11,4 +11,4 @@ class Workout extends React.Component {
   }
 }
 
-export default Workout;
+export default Blog;
