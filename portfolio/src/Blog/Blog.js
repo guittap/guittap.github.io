@@ -1,11 +1,11 @@
 import React from "react";
-import Welcome from "./posts/welcome";
+import Home from "./home/Home";
 
 class Blog extends React.Component {
   render() {
     return (
       <div className="mt-4">
-        <Welcome />
+        <Home />
       </div>
     );
   }

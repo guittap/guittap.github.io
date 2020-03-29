@@ -7,7 +7,7 @@ const NavBar = () => {
     <div className="NavBarDiv container">
       <div className="row">
         <div className="col-sm"></div>
-        <div className="col-sm-10 text-center mt-2">
+        <div className="col-sm-10 text-center">
           {/* home button */}
           <NavLink to="/">
             <button type="button" class="btn btn-outline-primary m-2">
