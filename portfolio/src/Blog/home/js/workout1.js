@@ -1,5 +1,6 @@
 import React from "react";
 import workout1 from "../../assets/workout1.jpg";
+import { NavLink } from "react-router-dom";
 
 const Workout1 = () => {
   const test =
@@ -11,7 +12,9 @@ const Workout1 = () => {
         <div className="col-sm-1"></div>
         <div className="col-sm shadow p-3 mb-5 bg-light rounded border">
           {/* copy this img tag if needed */}
-          <img src={workout1} alt="welcome" className="img-fluid"></img>
+          <NavLink to="/blog/workout-1">
+            <img src={workout1} alt="welcome" className="img-fluid"></img>
+          </NavLink>
           <div className="mt-5"></div>
           <div className="container">
             <div className="row">
@@ -19,7 +22,9 @@ const Workout1 = () => {
               <div className="col-sm">
                 {/* place content within this div */}
                 <div className="text-center">
-                  <h1>Workout Blog #1</h1>
+                  <NavLink to="/blog/workout-1">
+                    <h1>Workout Blog #1</h1>
+                  </NavLink>
                   <p className="text-muted">March 21, 2020</p>
                 </div>
                 <div className="mt-5"></div>

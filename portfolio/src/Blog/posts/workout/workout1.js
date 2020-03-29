@@ -1,5 +1,5 @@
 import React from "react";
-import workout1 from "../assets/workout1.jpg";
+import workout1 from "../../assets/workout1.jpg";
 
 const Workout1 = () => {
   const test =

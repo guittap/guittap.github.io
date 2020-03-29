@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32683b9621d95e6c4fc5be7dc09e2c63",
+    "revision": "a559bdb69e56e5f30538931bf786a973",
     "url": "/index.html"
   },
   {
-    "revision": "b8f1b07247456b0aa236",
+    "revision": "2db43fa9ad41a76b3e35",
     "url": "/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "b8f1b07247456b0aa236",
-    "url": "/static/js/2.cd719dc5.chunk.js"
+    "revision": "2db43fa9ad41a76b3e35",
+    "url": "/static/js/2.3fe0940c.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/static/js/2.cd719dc5.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3fe0940c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e105a2c1037c916040a5",
-    "url": "/static/js/main.96b37311.chunk.js"
+    "revision": "8a401afbf276591c560e",
+    "url": "/static/js/main.80b277e6.chunk.js"
   },
   {
     "revision": "a27870e5f03a3425f6aa",
@@ -33,6 +33,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "9cff09c1eaa4a689330e7b121479f063",
-    "url": "/static/media/welcome.9cff09c1.jpg"
+    "url": "/static/media/workout1.9cff09c1.jpg"
   }
 ]);
