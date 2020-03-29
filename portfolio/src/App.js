@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 
 import Home from "./Home/Home";
 import Blog from "./Blog/Blog";
@@ -8,7 +8,7 @@ import Navigation from "./Navigation/Navigation";
 class App extends React.Component {
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter>
         <div>
           <Navigation />
           <Switch>
@@ -16,7 +16,7 @@ class App extends React.Component {
             <Route path="/blog" component={Blog} />
           </Switch>
         </div>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }
