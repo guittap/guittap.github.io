@@ -9,10 +9,20 @@ One of the biggest issues with starting a workout blog in this time is that all 
 | Workout  |     | Weight |     | Reps |
 | -------- | --- | ------ | --- | ---- |
 | bench    |     | 125    |     | 2    |
-| deadlift |     | 245    |     | 1    |
 | squat    |     | 155    |     | 5    |
+| deadlift |     | 245    |     | 1    |
 
-Those were my maxes for the big three weight training workouts. I worked out seven days a week usually after 17:30 (when I got out of class most days). I didn't really have a specific diet, I just ate what I wanted. I followed the usual push -> pull -> legs and I tried to go easy by only doing 3 different workouts per session.
+#### My Goal
+
+| Workout  |     | Weight |     | Reps |
+| -------- | --- | ------ | --- | ---- |
+| bench    |     | 155    |     | 1    |
+| squat    |     | 225    |     | 1    |
+| deadlift |     | 315    |     | 1    |
+
+Those were my maxes for the big three weight training workouts. My current goal is to bench my body weight, squat 1.5x my body weight, and deadlift 2x my body weight. I am currently at 150lbs.
+
+I worked out seven days a week usually after 17:30 (when I got out of class most days). I didn't really have a specific diet, I just ate what I wanted. I followed the usual push -> pull -> legs and I tried to go easy by only doing 3 different workouts per session.
 
 #### 🏋️‍♂️🏋️‍♂️ Push
 
@@ -38,6 +48,6 @@ Those were my maxes for the big three weight training workouts. I worked out sev
 | lunges      |     | 45-105 |     | 8-10 |     | 3    |
 | calf raises |     | 45     |     | 8-10 |     | 3    |
 
-My current body weight is around 150lbs. I haven't weighed myself this morning, but I should be more prepared by the next blog. I plan on making these blogs as consistently as I can. There should be one atleast once a week if not twice a week. The next blog will be about my at home work out regimen and my progress with body weight workouts. I also might add some videoes of my form in the next blog, but only time will tell.
+I plan on making these blogs as consistently as I can. I should be making a blog at least once a week if not twice a week. The next blog will be about my at home work out regimen and my progress with body weight workouts. I also might add some videos of my form in the next blog, but only time will tell.
 
 -Wargen
