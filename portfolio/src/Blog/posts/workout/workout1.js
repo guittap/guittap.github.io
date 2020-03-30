@@ -40,7 +40,7 @@ class Workout1 extends React.Component {
                         💪
                       </span>
                     </h1>
-                    <p className="text-muted">March 21, 2020</p>
+                    <p className="text-muted">March 29, 2020</p>
                   </div>
                   <hr className="my-7 mt-5"></hr>
 

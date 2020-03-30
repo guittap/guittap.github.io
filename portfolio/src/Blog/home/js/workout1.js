@@ -31,7 +31,7 @@ const Workout1 = () => {
                       </span>
                     </h1>
                   </NavLink>
-                  <p className="text-muted">March 21, 2020</p>
+                  <p className="text-muted">March 29, 2020</p>
                 </div>
 
                 {/* the summary of the article */}
