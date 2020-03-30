@@ -14,12 +14,14 @@ const NavBar = () => {
               Home
             </button>
           </NavLink>
+
           {/* resume button */}
           <a href={Resume}>
             <button type="button" class="btn btn-outline-primary m-2">
               Resume
             </button>
           </a>
+
           {/* github button */}
           <button
             type="button"
@@ -28,12 +30,22 @@ const NavBar = () => {
           >
             Github
           </button>
+
           {/* blog button */}
           <NavLink to="/blog">
             <button type="button" class="btn btn-outline-primary m-2">
               Blog
             </button>
           </NavLink>
+
+          {/* instagram button */}
+          <button
+            type="button"
+            class="btn btn-outline-primary m-2"
+            onClick={() => window.open("https://www.instagram.com/warge.n/")}
+          >
+            Instagram
+          </button>
         </div>
         <div className="col-sm"></div>
       </div>
