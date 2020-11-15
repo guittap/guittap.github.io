@@ -12,7 +12,7 @@ const Me = () => {
             alt="Wargen Guittap"
             className="img-fluid border rounded-circle"
             height="auto"
-            width="60%"
+            width="40%"
           ></img>
         </div>
         <div className="col-sm"></div>
