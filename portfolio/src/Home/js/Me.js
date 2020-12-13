@@ -3,7 +3,7 @@ import me from "../assets/me.png";
 
 const Me = () => {
   return (
-    <div className="MeDiv container mt-5">
+    <div className="MeDiv container mt-3">
       <div className="row">
         <div className="col-sm"></div>
         <div className="col-sm text-center">
