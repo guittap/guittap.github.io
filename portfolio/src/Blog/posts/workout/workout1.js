@@ -1,7 +1,7 @@
 import React from "react";
 import workout1 from "../../assets/workout1.jpg";
 import ReactMarkdown from "react-markdown";
-import Workout1Text from "../../markdown/workout/workout1.md";
+import Workout1Text from "../../markdown/workout1.md";
 import "../../../css/style.css";
 
 class Workout1 extends React.Component {
