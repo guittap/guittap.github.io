@@ -49,5 +49,3 @@ I worked out seven days a week usually after 17:30 (when I got out of class most
 | calf raises |     | 45     |     | 8-10 |     | 3    |
 
 I plan on making these blogs as consistently as I can. I should be making a blog at least once a week if not twice a week. The next blog will be about my at home work out regimen and my progress with body weight workouts. I also might add some videos of my form in the next blog, but only time will tell.
-
--Wargen

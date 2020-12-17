@@ -57,7 +57,7 @@ const NameAndScope = () => {
       </div>
 
       {/* line break thing */}
-      <div className="row mt-3 mb-3">
+      <div className="row mt-1 mb-1">
         <div className="col-sm"></div>
         <div className="col-sm-3">
           <hr/>
